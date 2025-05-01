@@ -1,0 +1,17 @@
+2025-05-01 21:46:53.791063: Encrypted and decrypted patient1.csv
+2025-05-01 21:49:20.627941: Encrypted and decrypted patient1.csv
+2025-05-01 21:49:20.630006: Backup created at backup/patient1_backup_20250501_214920.enc
+2025-05-01 21:52:39.140143: Encrypted and decrypted patient1.csv
+2025-05-01 21:52:39.141389: Backup created at backup/patient1_backup_20250501_215239.enc
+2025-05-01 21:56:17.510243: Encrypted and decrypted patient1.csv
+2025-05-01 21:56:17.512146: Backup created at backup/patient1_backup_20250501_215617.enc
+2025-05-01 21:57:33.237575: Encrypted and decrypted patient1.csv
+2025-05-01 21:57:33.239687: Backup created at backup/patient1_backup_20250501_215733.enc
+2025-05-01 22:00:31.665747: Encrypted and decrypted patient1.csv
+2025-05-01 22:00:31.669786: Backup created at backup/patient1_backup_20250501_220031.enc
+2025-05-01 22:03:32.056662: Encrypted and decrypted patient1.csv
+2025-05-01 22:03:32.059008: Backup created at backup/patient1_backup_20250501_220332.enc
+2025-05-01 22:04:27.857591: Encrypted and decrypted all patient files
+2025-05-01 22:04:27.859225: Backup created at backup/patient1.csv_20250501_220427.enc
+2025-05-01 22:04:27.861429: Backup created at backup/patient1_20250501_220427.enc
+2025-05-01 22:04:27.862959: Backup created at backup/patient1_decrypted.csv_20250501_220427.enc
